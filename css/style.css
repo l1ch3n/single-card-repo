@@ -65,6 +65,9 @@ button {
 button:focus, button:hover {
   background-color: black;
   color: darkcyan;
+  
+  transition: all 200ms ease-in-out;
+  cursor: pointer;
 }
 
 .card__details {
