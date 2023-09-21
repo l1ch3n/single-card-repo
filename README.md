@@ -1,4 +1,4 @@
-# single-card-repo
+# cpnt260-a2
 260 Web Page Construction Fundamentals
 Assignment 2 - Single Card;
 Nicole Shukin
