@@ -1,6 +1,8 @@
-# single-card-repo
-260 Web Page Construction Fundamentals
-Assignment 2 - Single Card;
-Nicole Shukin
-A link to the GH Pages site
-https://l1ch3n.github.io/single-card-repo/
+# CPNT 260 - Web Page Construction
+
+## Assignment 2 - Single Card
+
+*Nicole Shukin*
+
+[Card](https://l1ch3n.github.io/single-card-repo/)
+[GitHub Page](https://github.com/l1ch3n/single-card-repo.git)
