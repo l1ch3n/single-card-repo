@@ -25,6 +25,7 @@ body {
 
   border-radius: 12px;
   border: 1px solid #B99095;
+  cursor: pointer;
 }
 
 .tag {
@@ -37,14 +38,17 @@ body {
   color: gray;
 }
 
-.name {
+  h3 {
+  font-family: Raleway;
   font-size: 24px;
   font-weight: 600;
-  margin-top: 16px;
+  margin-top: 20px;
+  margin-bottom: 10px;
   color: #B99095;
 }
 
 p {
+  font-family: sans-serif;
   font-size: 14px;
   color: grey;
   line-height: 150%;
