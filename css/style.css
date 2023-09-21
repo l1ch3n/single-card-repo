@@ -8,7 +8,7 @@ img {
 }
 
 body {
-  background-color: rgb(99, 112, 109);
+  background-color: #B5E5CF;
   font-family: 'Raleway', sans-serif;
 }
 
@@ -20,27 +20,28 @@ body {
 }
 
 .card {
-  background-color: white;
+  background-color: whitesmoke;
   padding: 8px;
 
   border-radius: 12px;
-  border: 1px solid darkslategray;
+  border: 1px solid #B99095;
 }
 
 .tag {
   padding: 4px 8px;
-  border: 1px solid black;
+  border: 1px solid #FCB5AC;
 
   border-radius: 50px;
   font-size: 12px;
   font-weight: 600;
-  color: brown;
+  color: gray;
 }
 
 .name {
   font-size: 24px;
   font-weight: 600;
   margin-top: 16px;
+  color: #B99095;
 }
 
 p {
@@ -55,16 +56,16 @@ button {
   border-radius: 50px;
 
   font-weight: 600;
-  color: whitesmoke;
-  background-color: darkcyan;
+  color: #FCB5AC;
+  background-color: #3D5B59;
 
   margin: 0 auto;
   display: block;
 }
 
 button:focus, button:hover {
-  background-color: black;
-  color: darkcyan;
+  background-color: #FCB5AC;
+  color: #3D5B59;
   
   transition: all 200ms ease-in-out;
   cursor: pointer;
