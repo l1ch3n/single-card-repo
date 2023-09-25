@@ -1,0 +1,41 @@
+img {
+  width: 100%;
+  border-radius: 12px;
+  height: 214px;
+  object-fit: cover;
+}
+#container {
+  max-width: 300px;
+  margin: 0 auto;
+
+  margin-top: 20vh;
+}
+.card {
+  padding: 8px;
+  border-radius: 12px;
+  border: 1px solid #B99095;
+  cursor: pointer;
+}
+.tag {
+  padding: 4px 8px;
+  border: 1px solid #FCB5AC;
+  border-radius: 50px;
+}
+h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.card__details {
+  padding: 16px 8px 8px 8px;
+}
+button {
+  border: none;
+  padding: 12px 24px;
+  border-radius: 50px;
+  margin: 0 auto;
+  display: block;
+}
+
+button:focus, button:hover {
+transition: all 200ms ease-in-out;
+}
